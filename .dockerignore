@@ -1,0 +1,29 @@
+# Build artifacts
+*.exe
+*.exe~
+server
+/bin/
+/tmp/
+
+# Local env / secrets
+.env
+
+# Git
+.git/
+.gitignore
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Docs
+*.md
