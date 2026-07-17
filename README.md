@@ -88,7 +88,7 @@ Possible monsters:
 
 Scene **15**
 
-- Fire Dragon (Final Boss)
+- Dragon (Final Boss)
 
 ---
 
