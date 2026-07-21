@@ -149,7 +149,6 @@ The engine controls:
 - Go
 - PostgreSQL
 - Ollama
-- JSON Schema
 - Telegram Bot API 
 
 ---
